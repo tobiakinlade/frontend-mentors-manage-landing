@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "ng build --prod",
-    "watch": "tailwindcss -i ./src/input.css -o ./public/output.css --watch"
+    "watch": "tailwindcss -i ./input.css -o ./output.css --watch"
   },
   "keywords": [],
   "author": "",

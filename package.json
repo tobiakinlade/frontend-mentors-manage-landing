@@ -4,6 +4,7 @@
   "description": "![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
+    "build": "ng build --prod",
     "watch": "tailwindcss -i ./src/input.css -o ./public/output.css --watch"
   },
   "keywords": [],

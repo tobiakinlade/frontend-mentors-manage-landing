@@ -4,7 +4,6 @@
   "description": "![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss -i ./src/input.css -o ./public/output.css",
     "watch": "tailwindcss -i ./src/input.css -o ./public/output.css --watch"
   },
   "keywords": [],
@@ -13,9 +12,5 @@
   "devDependencies": {
     "tailwindcss": "^3.0.24"
   },
-  "dependencies": {
-    "flowbite": "^1.4.7",
-    "swiper": "^8.1.6",
-    "tw-elements": "^1.0.0-alpha12"
-  }
+  "dependencies": {}
 }
